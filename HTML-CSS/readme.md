@@ -2,4 +2,4 @@
 
 ## clonecoding_youtube_mobile
 
-- 드림코딩 유튜브 클론코딩
+- 유튜브 모바일 클론코딩
